@@ -8,6 +8,7 @@ class SessionsController < ApplicationController
       flash[:warning] = "There was an error during authentication."
   end
   redirect_to root_path
+end
 
   def destroy
     if current_user
