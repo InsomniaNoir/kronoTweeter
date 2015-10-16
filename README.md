@@ -14,3 +14,6 @@ http://www.mattmorgante.com/technology/505
 
 * Sending a Tweet to Twitter
 https://richonrails.com/articles/sending-a-tweet-to-twitter
+
+* Custom Rake tasks
+http://railscasts.com/episodes/66-custom-rake-tasks
