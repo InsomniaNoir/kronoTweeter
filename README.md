@@ -11,3 +11,6 @@ https://stackoverflow.com/questions/33139275/error-on-migration-sqlite3sqlexcept
 
 * Make a Twitter Bot
 http://www.mattmorgante.com/technology/505
+
+* Sending a Tweet to Twitter
+https://richonrails.com/articles/sending-a-tweet-to-twitter
