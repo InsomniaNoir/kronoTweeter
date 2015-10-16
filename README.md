@@ -8,3 +8,6 @@ http://blog.benmorgan.io/post/79339120263/how-to-use-the-twitter-api-for-ruby-on
 
 * Stack Overflow Post
 https://stackoverflow.com/questions/33139275/error-on-migration-sqlite3sqlexception-no-such-table-main-users
+
+* Make a Twitter Bot
+http://www.mattmorgante.com/technology/505
