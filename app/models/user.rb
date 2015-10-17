@@ -10,4 +10,14 @@ class User < ActiveRecord::Base
       user
     end
   end
+
+  def tweet(tweet)
+    client = Twitter::Client.new do |config|
+      config.consumer_key = Rails.application.config.consumer_key
+      config.consumer_secret = Rails.applicatoin.config.consumer_secret
+      config.access_token = oauth_token
+      config.access_token_secret = oauth_secret
+    end
+    client.update(tweet)
+  end
 end

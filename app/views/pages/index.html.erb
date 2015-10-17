@@ -1,6 +1,8 @@
 <% if current_user %>
   <div class="page-header">
     <h1>Your information:</h1>
+    <p>Click the link to tweet.</p>
+    <%= link_to "Tweet", new_tweet_path %>
   </div>
   <div class="panel panel-default">
     <div class="panel-body">
