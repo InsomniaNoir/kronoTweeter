@@ -45,4 +45,7 @@ group :development, :test do
   gem 'sqlite3'
   # Thin Server Client
   gem 'thin'
+  # Better Errors
+  gem "better_errors"
+  gem "binding_of_caller"
 end
