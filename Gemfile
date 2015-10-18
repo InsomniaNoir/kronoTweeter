@@ -25,6 +25,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 # App dependencies
 gem 'omniauth-twitter'
+gem 'twitter'
 gem 'figaro'
 
 group :production do
