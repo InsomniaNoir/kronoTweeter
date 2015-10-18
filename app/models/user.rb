@@ -6,6 +6,8 @@ class User < ActiveRecord::Base
       user.location = auth_hash['info']['location']
       user.image_url = auth_hash['info']['image']
       user.url = auth_hash['info']['urls']['Twitter']
+      user.oauth_token=auth_hash.credentials.token
+      user.oauth_secret=auth_hash.credentials.secret
       user.save!
       user
     end
