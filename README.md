@@ -16,6 +16,7 @@ http://blog.benmorgan.io/post/79339120263/how-to-use-the-twitter-api-for-ruby-on
 * Stack Overflow Posts
   * https://stackoverflow.com/questions/33139275/error-on-migration-sqlite3sqlexception-no-such-table-main-users
   * https://stackoverflow.com/questions/33200143/undefined-local-variable-or-method-oauth-token-when-sending-tweets-from-rails
+  * https://stackoverflow.com/questions/33225533/twitter-in-ruby-on-rails-500-internal-server-error-your-credentials-do-not-a
 * Make a Twitter Bot
 http://www.mattmorgante.com/technology/505
 * Sending a Tweet to Twitter
